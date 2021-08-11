@@ -1,4 +1,4 @@
-## Frontend-Mentor
+## frontendMentor
  🎯 Aqui colocarei as resoluções do desafios do https://www.frontendmentor.io/challenges
 ##
 
