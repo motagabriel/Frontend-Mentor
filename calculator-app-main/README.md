@@ -2,6 +2,12 @@
 
 ## Este desafio consistia em fazer uma calculadora com três temas diferentes, sem alternância de página;
 
+### Funcionamento
+
+<h3 align="center">
+  <img alt="Calculadora tema 1" title="#calculatorApp" src="./assets/images/calculadora-gif.png" />
+</h3>
+
 ### Tema 1
 
 <h3 align="center">
